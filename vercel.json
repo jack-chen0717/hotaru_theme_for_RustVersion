@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/json/stats.json",
+            "dest": "https://server.jackchen.eu.org/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "https://server.jackchen.eu.org/detail"
+        },
+        {
+            "src": "/map",
+            "dest": https://server.jackchen.eu.org/map"
+        },
+        {
+            "src": "/i",
+            "dest": "https://server.jackchen.eu.org/i"
+        },
+        {
+            "src": "/report",
+            "dest": "https://server.jackchen.eu.org/report"
+        }
+    ]
+}
