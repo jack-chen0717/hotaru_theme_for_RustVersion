@@ -10,7 +10,7 @@
         },
         {
             "src": "/map",
-            "dest": https://server.jackchen.eu.org/map"
+            "dest": "https://server.jackchen.eu.org/map"
         },
         {
             "src": "/i",
